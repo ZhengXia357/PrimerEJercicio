@@ -1,0 +1,10 @@
+* {
+    text-align: center;
+}
+
+article {
+    margin: 20px auto;
+    width: 200px;
+    border: 1px orangered dotted;
+    border-radius: 5px;
+}
